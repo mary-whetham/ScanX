@@ -1,0 +1,33 @@
+project.ext {
+    /**SDK versions*/
+    appMinSdk = 23
+    appTargetSdk = 30
+    appCompileSdkVersion = 30
+
+    /**Kotlin version*/
+    kotlin_version = '1.3.61'
+
+
+    /**Google Material design and flexbox version**/
+    material_version = "1.0.0"
+    flexbox_version = "1.1.1"
+
+    /**CameraX**/
+    cameraX_version = "1.0.0-beta11"
+    cameraX_view_version = "1.0.0-alpha18"
+
+    /**ML Kit Barcode**/
+    mlkit_barcode_version = "16.0.3"
+
+    /**Crashlytics && Analytics**/
+    crashlytics_sdk_version = "17.1.1"
+    analytics_sdk_version = "17.4.4"
+
+    /**zxing QR library**/
+    zxing_core_version = "3.3.0"
+
+    kotlinx_coroutines_android_version = "1.3.2"
+    kotlinx_coroutines_core_version = "1.3.2"
+
+    constraintlayout_version = "2.0.2"
+}
