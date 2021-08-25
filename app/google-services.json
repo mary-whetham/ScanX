@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35272314929",
+    "project_id": "scanx-a4a5c",
+    "storage_bucket": "scanx-a4a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35272314929:android:8b628031ae5a0b3bb14510",
+        "android_client_info": {
+          "package_name": "com.asgl.scanx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35272314929-vvfcspgmuuc35eev7g0eo6lu920mdg7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-MPUyMywsVFYSnVF2SseXW6I3PFwXfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35272314929-vvfcspgmuuc35eev7g0eo6lu920mdg7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
